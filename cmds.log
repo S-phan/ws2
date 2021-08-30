@@ -1,0 +1,215 @@
+    1  $ wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  Passwd
+    3  passwd
+    4  wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    5  cd ~/Desktop
+    6  cd..pwd
+    7  pwd
+    8  cd /Desktop
+    9  ls -d */
+   10  pwd
+   11  cd sphan
+   12  mkdir myproject
+   13  pwd
+   14  cd myprojects/
+   15  mkdir myproject
+   16  cd myproject/
+   17  git init
+   18  touch worksheet1.txt
+   19  ls
+   20  git status
+   21  git add worksheet1
+   22  git add worksheet1.txt
+   23  git status
+   24  -m " worksheet 1 assignment"
+   25  git commit -m "worksheet 1 assigment"
+   26  git config --global Stephanie Phan
+   27  -m " worksheet 1 assignment"
+   28  git commit -m "worksheet 1 assignment"
+   29  git remote add orgin https://github.com/S-phan/worksheet1.git
+   30  git push -u orgin master
+   31  git config --global stephanie.phan@sjsu.edu
+   32  git config --global Stephanie
+   33  git config --global phans
+   34  git status
+   35  git commit -m "worksheet"
+   36  git commit -m "worksheet1:
+   37  git commit -m "worksheet1"
+   38  git remote add orgin https://github.com/S-phan/worksheet1.git
+   39  git status
+   40  pwd
+   41  cd worksheet1
+   42  mkdir worksheet1
+   43  cd worksheet1
+   44  https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   45  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   46  touch worksheet1.txt
+   47  ls
+   48  git status
+   49  git add worksheet1.txt
+   50  git init
+   51  phans@f6linux17:~$
+   52  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   53  cd ~/Desktop
+   54  mkdir myproject
+   55  cd myproject
+   56  git init
+   57  ls
+   58  git status
+   59  git commit -m "For worksheet 1"
+   60  git config --global stephanie.phan@sjsu.edu
+   61  Omit git config --global stephanie
+   62  git config --global stephanie
+   63  git config --global phans
+   64  git commit -m "For worksheet 1"
+   65  git remote add orgin https://github.com/S-phan/worksheet1.git
+   66  git push -u orgin master
+   67  git config --global user.email "you@example.com"
+   68  git config --global stphan0001@gmail.com
+   69  git config --global stephanie.phan@sjsu.edu
+   70  git config -- global stephanie.phan
+   71  git config -- global Phan, Stephanie
+   72  git config -- global Phan.Stephanie
+   73  git config --  Phan.Stephanie
+   74  git commit -m "For worksheet 1"
+   75  git push -u origin master
+   76  git config --global s-phan
+   77  git push -u origin master
+   78  git remote add orgin https://github.com/st-phan/worksheet1.git
+   79  git push -u orgin master
+   80  cd myproject/
+   81  git init
+   82  git status
+   83  git commit -m " first commit"
+   84  git init
+   85  ls
+   86  git add worksheet1.txt
+   87  git status
+   88  ls
+   89  git status
+   90  touch worksheet_1.txt
+   91  ls
+   92  git status
+   93  git commit -m "commit"
+   94  git remote add orgin https://github.com/S-phan/worksheet1.git
+   95  git add worksheet_1.txt
+   96  git status
+   97  git commit -m "commit 2" 
+   98  git remote add orgin https://github.com/S-phan/worksheet1.git
+   99  git remote add orgin ttps://github.com/st-phan/worksheet1.git
+  100  git remote add orgin https://github.com/st-phan/worksheet1.git
+  101  https://github.com/st-phan/worksheet1.git
+  102  git remote rn orgin
+  103  ls
+  104  git status
+  105  git commit -m "commit"
+  106  git romote add orgin https://github.com/st-phan/worksheet1.git
+  107  git remote add orgin https://github.com/st-phan/worksheet1.git
+  108  git remote -v
+  109  git remote rn upstream
+  110  git remote -v
+  111  git remote remove upsteam
+  112  git remote -v
+  113  git remote add orgin https://github.com/S-phan/worksheet1.git
+  114  git push -u orgin master
+  115  ls
+  116  cd myproject 
+  117  ls
+  118  cd myprojects
+  119  ls
+  120  cd myproject
+  121  gzip amazon_reviews_us_Books_v1_02.tsv.gz
+  122  ls
+  123  gzip amazon_reviews_us_Books_v1_02.tsv.gz
+  124  gzip amazon_reviews_us_Books_v1_02.tsv
+  125  unzip amazon_reviews_us_Books_v1_02.tsv.gz
+  126  cd myproject
+  127  ls
+  128  gzip wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+  129  gzip wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+  130  ls
+  131  gzip -d amazon_reviews_us_Books_v1_02.tsv.gz 
+  132  ls
+  133  rm amazon_reviews_us_Books_v1_02.tsv.gz.1
+  134  ls
+  135  ls amazon_reviews_us_Books_v1_02.tsv 
+  136  head amazon_reviews_us_Books_v1_02.tsv 
+  137  cat amazon_reviews_us_Books_v1_02.tsv | grep verified 
+  138  vi amazon_reviews_us_Books_v1_02.tsv 
+  139  history
+  140  history 10
+  141  scp --help
+  142  scp -h
+  143  scp amazon_reviews_us_Books_v1_02.tsv Downloads/
+  144  scp amazon_reviews_us_Books_v1_02.tsv C:\Users\sphan\Downloads
+  145  scp amazon_reviews_us_Books_v1_02.tsv \Users\sphan\Downloads
+  146  pwd
+  147  cat amazon_reviews_us_Books_v1_02.tsv  | grep -i "verified" > verified.txt
+  148  ls
+  149  vi verified.txt 
+  150  wc -l verified.txt 
+  151  cat amazon_reviews_us_Books_v1_02.tsv | grep unverified
+  152  history 
+  153  ls
+  154  wc -l unverified.txt 
+  155  cat amazon_reviews_us_Books_v1_02.tsv  | grep verified > verified1.txt
+  156  wc -l verified1.txt 
+  157  wc -l verified.txt 
+  158  ls
+  159  touch test1.txt
+  160  touch test2.txt
+  161  vi test1.txt
+  162  cat test1.txt | grep -i "Apple" > text2.txt
+  163  cat test2.txt 
+  164  vi test1.txt 
+  165  cat test1.txt | grep -i "Apple" > text3.txt
+  166  ls
+  167  cat test3
+  168  cat test3.txt
+  169  ls
+  170  cat text3.txt
+  171  ls
+  172  rm text3.txt
+  173  rm test2.txt
+  174  rm test1.txt
+  175  ls
+  176  rm text2.txt
+  177  ls
+  178  mv verified1.txt verified_not_case_sensitive.txt
+  179  ls
+  180  mv verified_not_case_sensitive.txt verified_case_sensitive.txt 
+  181  ls
+  182  rm unverified.txt 
+  183  ls
+  184  rm verified
+  185  rm verified.txt
+  186  rm verified_case_sensitive.txt 
+  187  cat amazon_reviews_us_Books_v1_02.tsv | grep "unverified" >unverified.txt
+  188  wc -l unverified.txt 
+  189  cat amazon_reviews_us_Books_v1_02.tsv | grep "unverified"
+  190  wc -l unverified.txt > counts.txt
+  191  ls
+  192  cat counts .txt
+  193  cat counts.txt
+  194  cat amazon_reviews_us_Books_v1_02.tsv | grep "verified" > verified.txt
+  195  wc -l verified.txt 
+  196  wc -l verified.txt > counts.txt
+  197  cat counts.txt
+  198  wc -l verified.txt >> counts.txt
+  199  cat counts.txt
+  200  echo ""> counts.txt
+  201  cat counts.txt
+  202  wc -l verified.txt >> counts.txt
+  203  wc -l unverified.txt >> counts.txt
+  204  cat counts.txt
+  205  vi counts.txt
+  206  cat count.txt
+  207  cat counts.txt
+  208  wc -w unverified.txt >> counts.txt 
+  209  cats counts.txt 
+  210  cat counts.txt 
+  211  wc -w verified.txt >> counts.txt 
+  212  cat counts.txt 
+  213  vi counts.txt 
+  214  cat counts.txt 
+  215  history > cmds.log
