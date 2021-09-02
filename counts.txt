@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+99 unverified.txt #Line count for unverified.txt
+1439 verified.txt #Line count for verified.txt 
+588540 verified.txt #Word count for verified.txt 
+43387 unverified.txt #word count for unverified.txt 
+
+=======
+1439 verified.txt #Line count for verified case senitive
+99 unverified.txt #Line count for unverified case senitive
+43387 unverified.txt #total word count for unverified.txt
+588540 verified.txt # total  word count for  verified.txt
+>>>>>>> df2839a59a6098bfb0b12470d4d1dcfce56301e8
