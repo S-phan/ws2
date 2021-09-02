@@ -1,4 +1,0 @@
-1439 verified.txt #Line count for verified case senitive
-99 unverified.txt #Line count for unverified case senitive
-43387 unverified.txt #total word count for unverified.txt
-588540 verified.txt # total  word count for  verified.txt
